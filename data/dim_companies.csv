@@ -1,0 +1,1001 @@
+company_id,company_name,industry,company_size,signup_date
+101,Johnson LLC,Cybersecurity,SMB,2025-05-11
+102,Taylor Inc,Cybersecurity,SMB,2024-07-09
+103,"Mcclain, Miller and Henderson",Edtech,SMB,2025-06-09
+104,Robinson PLC,Fintech,Mid-Market,2024-01-24
+105,Hoffman Ltd,Logistics,SMB,2025-04-12
+106,"Gardner, Robinson and Lawrence",Healthcare,SMB,2025-05-19
+107,Blake and Sons,Fintech,SMB,2025-09-20
+108,Peterson-Moore,Logistics,Mid-Market,2025-06-26
+109,Garcia-James,Logistics,SMB,2025-08-16
+110,Munoz-Roman,Cybersecurity,Mid-Market,2024-10-05
+111,Herrera-Dudley,Healthcare,SMB,2025-07-20
+112,Arnold Ltd,Logistics,SMB,2024-10-21
+113,Ray-Bush,Fintech,Mid-Market,2025-04-25
+114,"Perez, Roberts and Miller",Edtech,Mid-Market,2024-02-05
+115,James Group,E-commerce,SMB,2024-06-29
+116,Martin-Kelly,Edtech,Enterprise,2025-05-08
+117,Miles-Sutton,E-commerce,SMB,2025-06-04
+118,"Reid, Ferguson and Sanchez",Healthcare,SMB,2024-02-25
+119,Nelson-Schaefer,E-commerce,Mid-Market,2024-12-25
+120,"Robinson, Nguyen and Tate",Fintech,Mid-Market,2025-06-18
+121,Underwood LLC,Logistics,SMB,2024-02-13
+122,Jones-Gentry,Healthcare,SMB,2024-11-07
+123,"Edwards, Rios and Foster",E-commerce,Mid-Market,2025-03-16
+124,"Ellis, Baker and Wright",Logistics,Mid-Market,2025-12-11
+125,"Baker, Richards and Hurst",E-commerce,Mid-Market,2025-03-12
+126,Robinson-Bright,Cybersecurity,SMB,2024-11-06
+127,Davis-Williams,Cybersecurity,SMB,2025-01-30
+128,Burton Ltd,E-commerce,Enterprise,2024-03-26
+129,"Brown, James and Ferrell",Edtech,Mid-Market,2024-11-23
+130,Maddox-Valencia,Healthcare,SMB,2025-02-14
+131,"Le, Maldonado and Herrera",Cybersecurity,Mid-Market,2024-01-09
+132,"Peterson, Carter and Moore",Edtech,SMB,2024-07-26
+133,"Liu, Baker and Mason",Edtech,Mid-Market,2024-01-03
+134,"Gaines, Harrell and Evans",Cybersecurity,Enterprise,2024-05-18
+135,"Lynch, Hernandez and Farmer",Cybersecurity,SMB,2025-05-11
+136,"Sellers, George and Burns",Cybersecurity,SMB,2025-02-22
+137,Koch-Decker,Cybersecurity,SMB,2024-03-27
+138,Brown PLC,Healthcare,SMB,2024-08-26
+139,Dennis Inc,Cybersecurity,Mid-Market,2024-03-02
+140,"Cannon, Anderson and Alvarez",Edtech,Mid-Market,2025-08-13
+141,Baker PLC,Fintech,SMB,2025-03-03
+142,Hickman Ltd,Fintech,Mid-Market,2024-11-24
+143,Marquez Group,Healthcare,SMB,2025-06-19
+144,"Brooks, Lam and Hayes",Edtech,Enterprise,2025-06-05
+145,Brown Inc,Logistics,Mid-Market,2024-07-11
+146,"Hall, Robinson and Jones",E-commerce,SMB,2025-04-01
+147,Perez Inc,Healthcare,SMB,2025-05-05
+148,Jones-Young,Cybersecurity,SMB,2025-10-29
+149,Lewis-Anderson,E-commerce,SMB,2025-06-03
+150,"Johnston, Sanchez and Kennedy",Cybersecurity,Mid-Market,2025-12-27
+151,Davis Ltd,E-commerce,Mid-Market,2024-11-12
+152,Henderson-Owens,Healthcare,Mid-Market,2024-11-30
+153,Nunez Ltd,Healthcare,SMB,2025-07-20
+154,Powell LLC,Edtech,SMB,2024-03-17
+155,Wright and Sons,Fintech,Mid-Market,2025-09-13
+156,Taylor-White,Fintech,SMB,2025-02-20
+157,Baxter Inc,Edtech,Mid-Market,2024-12-25
+158,"Garcia, Pearson and Fernandez",Healthcare,Mid-Market,2024-12-10
+159,House and Sons,Healthcare,SMB,2024-01-12
+160,Tucker-Lewis,Healthcare,SMB,2024-05-09
+161,Martin Inc,Logistics,Mid-Market,2024-11-07
+162,House-Glover,Fintech,Mid-Market,2024-10-30
+163,Horton-Cross,Fintech,Mid-Market,2024-08-09
+164,"Stanley, Tucker and Lee",Logistics,Mid-Market,2025-08-31
+165,Riley PLC,Cybersecurity,SMB,2024-06-18
+166,"Edwards, Williams and Woods",E-commerce,SMB,2024-02-17
+167,"Moore, Yu and Miller",Healthcare,SMB,2025-12-15
+168,Larson Ltd,Cybersecurity,Mid-Market,2024-05-24
+169,Powell PLC,E-commerce,Enterprise,2025-10-31
+170,"Wheeler, Harvey and Barnes",Edtech,SMB,2024-07-10
+171,"Mills, Donovan and Harris",Fintech,Mid-Market,2025-03-29
+172,Allen-Foster,E-commerce,Mid-Market,2025-07-10
+173,"Evans, Stewart and Walton",Logistics,Mid-Market,2025-06-05
+174,Ellis PLC,Edtech,SMB,2024-02-26
+175,Medina PLC,Edtech,SMB,2024-03-18
+176,Mahoney Inc,Logistics,Enterprise,2024-07-24
+177,Wood and Sons,Logistics,SMB,2025-11-13
+178,"Warner, Carr and Archer",Fintech,SMB,2024-12-06
+179,"Smith, Montoya and Evans",E-commerce,Mid-Market,2025-05-22
+180,Mcmillan and Sons,E-commerce,SMB,2025-05-30
+181,Preston Ltd,Edtech,Mid-Market,2024-07-24
+182,Nelson PLC,Fintech,SMB,2025-03-05
+183,"Cooper, Watts and Farrell",Healthcare,Mid-Market,2024-06-12
+184,King-Odonnell,Logistics,Mid-Market,2025-01-27
+185,Walters LLC,Edtech,Mid-Market,2024-02-09
+186,Cook and Sons,Logistics,SMB,2024-02-04
+187,Martin-Ramos,Logistics,Mid-Market,2025-05-09
+188,Hoffman-Rodriguez,Healthcare,Enterprise,2025-07-02
+189,"Mckee, Gardner and Davenport",Logistics,Mid-Market,2025-11-16
+190,"Hernandez, Anderson and Parker",Cybersecurity,SMB,2025-03-28
+191,Nolan and Sons,E-commerce,SMB,2025-11-29
+192,Estrada LLC,Cybersecurity,Mid-Market,2025-06-13
+193,"Henson, Russell and Oliver",Healthcare,Mid-Market,2025-08-28
+194,Hancock and Sons,Healthcare,SMB,2024-04-30
+195,Johnson-Doyle,Edtech,SMB,2025-11-15
+196,Pham-Shields,Fintech,Mid-Market,2024-09-15
+197,Adams Ltd,Edtech,Mid-Market,2025-09-21
+198,Brennan-Garrison,Fintech,SMB,2024-03-24
+199,Velasquez Group,Cybersecurity,SMB,2024-06-21
+200,Hoover-Savage,Fintech,Enterprise,2024-09-28
+201,Keller Group,E-commerce,SMB,2024-06-22
+202,Lin-Rasmussen,Edtech,SMB,2024-09-11
+203,May-Ross,Healthcare,SMB,2024-08-04
+204,"Rivera, Johnson and Wiley",Edtech,Mid-Market,2025-10-17
+205,Carpenter LLC,Logistics,Mid-Market,2024-07-21
+206,Carlson LLC,Edtech,Mid-Market,2024-01-30
+207,Graham-Joyce,Healthcare,SMB,2025-07-19
+208,Lam-Lee,Fintech,Mid-Market,2024-03-30
+209,"Graham, Meyer and Drake",E-commerce,SMB,2024-02-04
+210,"Bentley, Mclaughlin and Gonzalez",Healthcare,Mid-Market,2025-06-17
+211,Rush LLC,Fintech,Mid-Market,2024-11-30
+212,Alvarado-Martinez,Cybersecurity,SMB,2025-04-29
+213,Hunter-Estrada,Healthcare,Mid-Market,2025-11-30
+214,Terry-Spencer,Fintech,SMB,2024-09-10
+215,Ortega-Gray,Edtech,SMB,2024-05-29
+216,Gilbert LLC,Edtech,SMB,2025-08-04
+217,"Bass, Torres and Clark",E-commerce,SMB,2024-11-11
+218,"Lawson, Morris and Ramos",Fintech,SMB,2025-09-02
+219,Dixon Ltd,Logistics,SMB,2025-06-08
+220,"Miller, Robertson and Schultz",Cybersecurity,Enterprise,2024-05-11
+221,Cardenas and Sons,Fintech,Enterprise,2024-09-17
+222,Walker-Gonzalez,Edtech,SMB,2025-06-06
+223,Sanchez Group,Healthcare,SMB,2024-01-19
+224,Gibson Ltd,Healthcare,Enterprise,2025-04-19
+225,Higgins Group,Edtech,SMB,2025-03-23
+226,Sanchez-Douglas,Healthcare,SMB,2025-01-18
+227,Osborne and Sons,Healthcare,SMB,2024-01-05
+228,"Holmes, Williams and Wright",Cybersecurity,Enterprise,2024-05-16
+229,Bryant Group,Logistics,Mid-Market,2025-10-20
+230,"Travis, Larson and Dodson",Healthcare,SMB,2025-06-02
+231,Salazar-Ball,E-commerce,SMB,2025-11-23
+232,Rivas-Kelley,Fintech,Mid-Market,2025-01-27
+233,Manning Group,Logistics,SMB,2025-11-27
+234,Walton-Larsen,E-commerce,SMB,2024-12-15
+235,"Washington, Allen and Gonzales",Logistics,SMB,2024-08-03
+236,Young-Rogers,Logistics,SMB,2025-07-08
+237,"Miller, Hernandez and Reyes",Logistics,SMB,2025-11-24
+238,"Lewis, Perry and Rivera",Edtech,SMB,2024-04-28
+239,Brown-Wall,Fintech,Mid-Market,2024-12-27
+240,"Shah, Smith and Gilmore",Edtech,SMB,2024-10-29
+241,Woods-Bender,Logistics,SMB,2025-03-23
+242,Castaneda-Ashley,Logistics,SMB,2024-08-19
+243,"Adkins, Payne and Morrison",Fintech,SMB,2024-11-21
+244,Robinson-Graham,Logistics,Mid-Market,2024-06-20
+245,Rogers-Shelton,E-commerce,Enterprise,2024-01-23
+246,"Martin, Mcdonald and Anderson",Edtech,Mid-Market,2024-11-10
+247,"Johnson, Long and Elliott",E-commerce,SMB,2025-04-28
+248,Day and Sons,Healthcare,SMB,2024-01-22
+249,White-Green,Cybersecurity,SMB,2025-11-04
+250,Gibson LLC,E-commerce,Enterprise,2024-09-11
+251,Ramirez-Bean,Fintech,SMB,2025-08-14
+252,Conley-Ruiz,Logistics,Enterprise,2024-11-23
+253,"Williams, Crane and Walker",Fintech,SMB,2025-08-04
+254,"Williams, Johnson and Wright",Edtech,SMB,2024-02-23
+255,Howell and Sons,Edtech,Enterprise,2025-10-13
+256,Caldwell-Elliott,Fintech,Mid-Market,2024-04-08
+257,Lyons-Wang,E-commerce,SMB,2024-06-18
+258,"Lawson, Adkins and Wilson",Healthcare,Mid-Market,2024-05-10
+259,Oconnell Inc,Cybersecurity,SMB,2025-09-28
+260,Hickman PLC,Cybersecurity,SMB,2025-03-25
+261,Sanders-Espinoza,Cybersecurity,Mid-Market,2025-06-10
+262,"Vaughn, Burton and Garcia",E-commerce,Enterprise,2024-02-29
+263,Jefferson-Burke,Fintech,Enterprise,2025-08-23
+264,"Patton, Reed and Patterson",Edtech,SMB,2024-04-04
+265,Hunter LLC,Fintech,Mid-Market,2024-10-14
+266,Short-Garcia,Edtech,SMB,2024-01-10
+267,"Snow, Stevens and Hernandez",Logistics,SMB,2024-10-08
+268,"Boyd, Santos and Gilbert",E-commerce,SMB,2024-05-16
+269,"Hampton, Marshall and Petersen",Cybersecurity,Mid-Market,2025-12-15
+270,Morris-Sanchez,Logistics,SMB,2025-04-05
+271,Ramirez Group,Fintech,SMB,2025-12-26
+272,Hudson-Barnett,Healthcare,Mid-Market,2024-07-08
+273,Snyder LLC,Fintech,SMB,2024-09-18
+274,Lewis-Salinas,Edtech,Mid-Market,2024-05-21
+275,Beard-Haynes,E-commerce,SMB,2024-09-21
+276,"Smith, Vaughan and Miller",Healthcare,Mid-Market,2024-08-02
+277,Freeman-Chang,Healthcare,Mid-Market,2025-07-13
+278,Brewer-Henry,Fintech,SMB,2025-06-20
+279,Davis and Sons,Cybersecurity,Enterprise,2025-09-07
+280,"Sanchez, Beck and Wood",Logistics,SMB,2024-11-10
+281,"Cooper, Barajas and Pierce",E-commerce,Mid-Market,2025-03-05
+282,"Chavez, Parker and Hall",Edtech,SMB,2024-09-30
+283,Stewart Ltd,Fintech,SMB,2025-07-14
+284,"Lopez, Robinson and Washington",Fintech,Mid-Market,2025-02-20
+285,"Bray, Warren and Campbell",Edtech,Mid-Market,2025-07-16
+286,Phillips LLC,Cybersecurity,SMB,2024-03-19
+287,Smith-Ferguson,Logistics,Mid-Market,2024-05-19
+288,Mccann PLC,Healthcare,Enterprise,2024-08-01
+289,"Raymond, Little and Mullins",Cybersecurity,SMB,2024-08-14
+290,Andrews Group,Edtech,Mid-Market,2024-03-20
+291,Peterson-Sheppard,Edtech,Mid-Market,2025-01-06
+292,Wilson-Jones,Fintech,SMB,2024-07-15
+293,Ray Ltd,E-commerce,Mid-Market,2025-01-16
+294,Hernandez PLC,Healthcare,Mid-Market,2024-02-11
+295,Mcknight Inc,Cybersecurity,Mid-Market,2024-08-23
+296,Obrien-Gibbs,E-commerce,SMB,2025-03-09
+297,"James, Kerr and Evans",Cybersecurity,SMB,2024-06-24
+298,Torres-Oliver,Fintech,Mid-Market,2025-04-02
+299,"Garcia, Farmer and Garrett",Edtech,SMB,2025-04-18
+300,"Miller, Allen and Arnold",Healthcare,SMB,2024-07-24
+301,Ortiz Ltd,Edtech,SMB,2024-05-01
+302,Carter-Hall,Cybersecurity,SMB,2025-04-06
+303,Warner-Gibson,E-commerce,SMB,2025-07-03
+304,Bradshaw Ltd,Fintech,Enterprise,2025-06-17
+305,"Lara, Gonzalez and Wilson",E-commerce,SMB,2025-04-03
+306,"Hernandez, Baker and Thomas",Logistics,SMB,2024-06-23
+307,Sparks PLC,Logistics,SMB,2024-02-16
+308,"Morse, Gonzales and Harrison",Fintech,SMB,2025-08-04
+309,"Powell, Nelson and Fernandez",E-commerce,SMB,2024-08-24
+310,George Group,E-commerce,SMB,2024-12-06
+311,Munoz-Johnson,Logistics,SMB,2025-07-24
+312,"Huff, Johnston and Sampson",Cybersecurity,Mid-Market,2024-06-26
+313,"Underwood, Johnston and Hines",Healthcare,Mid-Market,2025-08-17
+314,Stone-Ramos,Logistics,SMB,2024-05-16
+315,Shea Group,Logistics,SMB,2024-08-04
+316,Costa-Harrison,Fintech,Mid-Market,2025-05-08
+317,Morris-Garcia,Fintech,SMB,2024-11-13
+318,Jenkins-Simpson,Logistics,Mid-Market,2024-05-04
+319,Cervantes-Pierce,Cybersecurity,Mid-Market,2025-05-29
+320,Edwards LLC,Edtech,SMB,2024-12-19
+321,Hancock-Bryan,Fintech,Enterprise,2024-03-31
+322,"Booth, Murray and Brown",E-commerce,Mid-Market,2024-01-01
+323,Dean-Jimenez,Cybersecurity,Mid-Market,2025-02-06
+324,Harris PLC,Cybersecurity,Enterprise,2024-12-09
+325,Kim-Wolfe,Logistics,SMB,2024-04-11
+326,Dudley PLC,Healthcare,SMB,2024-04-04
+327,Mckinney LLC,Cybersecurity,SMB,2025-09-12
+328,Tran Inc,Edtech,SMB,2025-03-03
+329,Murray Inc,Cybersecurity,Enterprise,2024-06-23
+330,Jimenez Ltd,Cybersecurity,Mid-Market,2025-05-18
+331,"Thornton, Perry and Olson",Edtech,Mid-Market,2024-08-14
+332,Bryant and Sons,E-commerce,SMB,2025-01-01
+333,Weeks PLC,Fintech,SMB,2024-10-24
+334,Shields LLC,Edtech,SMB,2025-08-02
+335,Morgan-French,Logistics,Mid-Market,2025-08-23
+336,Campbell LLC,E-commerce,SMB,2024-07-26
+337,"Carpenter, Keller and Grimes",Healthcare,Mid-Market,2025-10-12
+338,"Washington, Cook and Hines",Logistics,SMB,2024-12-12
+339,Cantu-Kane,Cybersecurity,SMB,2024-10-19
+340,Armstrong and Sons,Fintech,SMB,2025-06-25
+341,Williams-Garner,Cybersecurity,Mid-Market,2025-10-26
+342,Hughes-Alvarado,E-commerce,SMB,2025-07-01
+343,"Pollard, Simpson and Johnson",Edtech,Mid-Market,2025-09-29
+344,"Rivera, Garcia and Kirk",Edtech,Mid-Market,2025-01-25
+345,"Lozano, Smith and Thomas",Edtech,SMB,2024-03-18
+346,"Booker, Jones and Harrington",Edtech,Enterprise,2025-11-07
+347,Hanson-Sanders,Logistics,Mid-Market,2024-07-24
+348,Phelps-Villarreal,Fintech,SMB,2024-03-03
+349,Sims-Clay,Cybersecurity,Mid-Market,2024-10-22
+350,"Johnson, Jones and Welch",Cybersecurity,Mid-Market,2025-01-14
+351,Bright-Francis,Healthcare,SMB,2025-12-16
+352,Hodges Ltd,Edtech,Mid-Market,2024-12-03
+353,Wallace Ltd,Fintech,Mid-Market,2025-11-08
+354,Williams Inc,Fintech,Mid-Market,2024-08-20
+355,Brooks-Thomas,Edtech,SMB,2024-08-15
+356,Knight-Sparks,Cybersecurity,SMB,2025-02-16
+357,Miller Group,Fintech,Mid-Market,2024-05-12
+358,"Allen, Durham and Thomas",Fintech,SMB,2025-04-26
+359,"King, Scott and Smith",Healthcare,Mid-Market,2024-12-24
+360,Santana-Byrd,Logistics,Mid-Market,2025-09-16
+361,Alexander LLC,Healthcare,Mid-Market,2024-05-02
+362,Fowler-Coleman,Cybersecurity,Mid-Market,2025-04-01
+363,Bruce-Gonzalez,Healthcare,Mid-Market,2024-07-13
+364,Rodriguez-James,Logistics,SMB,2024-10-25
+365,"Phillips, Lyons and Johnson",Edtech,Mid-Market,2024-10-05
+366,"Foster, Smith and Grimes",Healthcare,SMB,2025-10-06
+367,"Beltran, Lozano and Mcgee",Edtech,Mid-Market,2025-08-27
+368,Parsons-Hall,E-commerce,Mid-Market,2025-10-08
+369,Robinson-Lee,Logistics,SMB,2025-09-14
+370,"Campos, Saunders and Becker",Edtech,SMB,2024-07-13
+371,"Davis, Burton and Williams",Fintech,Mid-Market,2024-04-16
+372,Johnson-Diaz,Edtech,SMB,2025-09-04
+373,Browning LLC,E-commerce,Mid-Market,2024-04-12
+374,Thompson-Anderson,Fintech,SMB,2025-08-03
+375,Schmidt-Mcintyre,Edtech,SMB,2025-02-22
+376,Scott Group,Edtech,Mid-Market,2025-10-07
+377,Francis-Morgan,Fintech,SMB,2025-09-18
+378,Mccarty-Taylor,E-commerce,SMB,2024-03-30
+379,"Ramsey, Whitney and Coffey",Healthcare,SMB,2024-06-24
+380,"Diaz, Gibbs and Smith",Healthcare,SMB,2025-09-16
+381,Gibson Ltd,Logistics,Enterprise,2025-02-20
+382,"Baker, James and Little",Fintech,Mid-Market,2025-08-04
+383,Leonard Group,Logistics,SMB,2024-10-15
+384,"Henson, Hoffman and Herman",Fintech,Enterprise,2024-01-20
+385,"Brown, Colon and Blankenship",E-commerce,Mid-Market,2024-06-20
+386,"Ortiz, Taylor and Shah",Healthcare,SMB,2024-08-22
+387,Wilson-Young,Cybersecurity,SMB,2024-08-24
+388,Price LLC,Logistics,Mid-Market,2025-02-21
+389,"Horton, Fernandez and Matthews",Healthcare,SMB,2025-06-04
+390,Mcclure Ltd,Healthcare,SMB,2025-07-18
+391,Gilbert-Crosby,Healthcare,SMB,2024-03-17
+392,Vaughn and Sons,Cybersecurity,Mid-Market,2024-08-05
+393,Sampson-Foley,Cybersecurity,SMB,2024-12-10
+394,"Richardson, Winters and Newman",Healthcare,Enterprise,2024-03-18
+395,Hill-Donaldson,Logistics,SMB,2024-02-17
+396,Davis-Lewis,Healthcare,Mid-Market,2025-10-20
+397,"Maddox, Williams and Cook",Cybersecurity,SMB,2025-05-11
+398,"Harris, Gallegos and Spencer",Cybersecurity,SMB,2024-04-07
+399,Li and Sons,Healthcare,SMB,2025-03-31
+400,Kramer PLC,E-commerce,SMB,2024-09-12
+401,Garrison-Thomas,Edtech,SMB,2024-01-03
+402,"King, Thompson and Guerrero",E-commerce,Mid-Market,2024-04-10
+403,Smith and Sons,Healthcare,SMB,2024-01-21
+404,Smith-Baker,Healthcare,SMB,2025-04-02
+405,"Fisher, Wilson and Brown",Fintech,SMB,2024-04-08
+406,Palmer-Rodriguez,Cybersecurity,SMB,2024-12-14
+407,Dougherty Inc,E-commerce,SMB,2025-01-26
+408,"Boyd, Ellis and Maynard",Fintech,Mid-Market,2025-07-18
+409,Boone-Simmons,Cybersecurity,SMB,2024-02-17
+410,Joseph-Wallace,Fintech,Enterprise,2024-03-24
+411,Morris and Sons,Edtech,Mid-Market,2025-11-29
+412,Hill Ltd,Logistics,SMB,2024-02-21
+413,"Joseph, James and Harper",Edtech,SMB,2025-03-30
+414,Wagner-Jordan,Fintech,Mid-Market,2024-08-17
+415,"Wilson, Pena and Rich",Edtech,SMB,2025-09-08
+416,"Glenn, Jordan and Beasley",E-commerce,Mid-Market,2025-03-04
+417,Wilcox-Ross,Edtech,Mid-Market,2024-11-17
+418,Edwards LLC,Cybersecurity,Mid-Market,2025-07-20
+419,Brooks-Hernandez,Edtech,Enterprise,2025-05-31
+420,Jones-Decker,Fintech,Mid-Market,2025-12-17
+421,Davis-Rodgers,E-commerce,Mid-Market,2024-03-13
+422,Hawkins PLC,Healthcare,SMB,2025-09-22
+423,"Rivera, Martinez and Gomez",Cybersecurity,SMB,2025-03-12
+424,Parrish-Griffith,Logistics,Mid-Market,2025-05-31
+425,"Edwards, Garcia and Romero",Cybersecurity,SMB,2024-08-11
+426,"Olson, Boone and Bell",Cybersecurity,Mid-Market,2024-04-30
+427,Wilson-Ramirez,Cybersecurity,Mid-Market,2025-03-08
+428,Bruce-Villegas,Fintech,Mid-Market,2024-06-24
+429,"Austin, Day and Johnson",Logistics,Mid-Market,2025-09-27
+430,"Gallegos, Adams and White",E-commerce,SMB,2025-12-22
+431,Dorsey-Bell,Cybersecurity,SMB,2025-06-29
+432,Knight Group,Logistics,Mid-Market,2024-05-20
+433,Figueroa Inc,Fintech,Mid-Market,2024-02-24
+434,"Moreno, Bennett and Chavez",Healthcare,SMB,2024-03-12
+435,Collins-Nguyen,E-commerce,Mid-Market,2024-05-02
+436,"Miller, Williams and Moore",Healthcare,Mid-Market,2025-03-16
+437,Craig LLC,Healthcare,SMB,2025-04-24
+438,"Coleman, Lawson and Perry",Logistics,Enterprise,2024-12-10
+439,"Wilson, Jordan and Campbell",E-commerce,Mid-Market,2024-06-16
+440,"Tucker, Estrada and Williams",Logistics,Mid-Market,2025-06-10
+441,"Brown, Harris and Dougherty",Healthcare,SMB,2024-11-03
+442,Duran LLC,Cybersecurity,Mid-Market,2025-08-19
+443,Smith Ltd,E-commerce,Mid-Market,2024-09-11
+444,Anderson PLC,Fintech,SMB,2024-11-30
+445,Mason Ltd,Healthcare,SMB,2025-06-30
+446,Jones-Hensley,Healthcare,Mid-Market,2025-09-18
+447,Smith-Morse,Cybersecurity,SMB,2024-02-02
+448,Johnston-Berry,Fintech,SMB,2025-10-31
+449,"Butler, Wilson and Smith",E-commerce,SMB,2025-07-05
+450,Solis PLC,Edtech,SMB,2024-09-09
+451,"Gillespie, Davis and Richard",E-commerce,SMB,2024-12-23
+452,Chapman-Warren,Logistics,Mid-Market,2024-07-07
+453,Reese-Walker,E-commerce,Mid-Market,2024-11-03
+454,Jones Ltd,Logistics,Enterprise,2025-08-28
+455,"Hicks, Bullock and Bailey",Fintech,SMB,2024-03-29
+456,"Briggs, Young and Thomas",Healthcare,SMB,2025-07-18
+457,Morrison Ltd,Edtech,Mid-Market,2024-06-02
+458,Bean Ltd,Cybersecurity,Mid-Market,2024-02-28
+459,Webster-Wolf,Healthcare,Mid-Market,2025-01-18
+460,"Glass, Cunningham and Reid",Fintech,SMB,2024-12-14
+461,Lin-Burton,Healthcare,Mid-Market,2025-04-30
+462,Jones-Ramos,E-commerce,Mid-Market,2024-04-27
+463,Vargas-Bell,E-commerce,SMB,2024-08-23
+464,Murray-Johnson,Logistics,SMB,2024-02-27
+465,Jones-Lin,Cybersecurity,Mid-Market,2024-10-13
+466,Gilbert PLC,E-commerce,Mid-Market,2025-10-26
+467,Carpenter-Best,E-commerce,SMB,2024-10-25
+468,Cole PLC,Edtech,SMB,2025-07-27
+469,Morris Group,Edtech,SMB,2025-05-21
+470,Rosario Group,Cybersecurity,SMB,2025-01-24
+471,Haas-Miller,Cybersecurity,SMB,2024-03-21
+472,Williams Ltd,Edtech,Mid-Market,2025-05-16
+473,Warren-Bishop,E-commerce,Mid-Market,2024-12-06
+474,Hardin-Hughes,Logistics,Mid-Market,2024-10-09
+475,Shelton-Williams,Fintech,Mid-Market,2025-08-24
+476,"Cook, Rivera and Grant",E-commerce,SMB,2025-05-05
+477,King-York,Edtech,SMB,2024-10-27
+478,"Marks, Cook and Aguilar",Cybersecurity,SMB,2025-12-04
+479,Collins-Douglas,E-commerce,SMB,2024-04-19
+480,Anderson-Fletcher,Fintech,Mid-Market,2025-05-29
+481,Hansen-Schneider,Cybersecurity,Enterprise,2024-03-06
+482,Santiago Ltd,Cybersecurity,Mid-Market,2024-09-12
+483,"Davis, Santiago and Romero",Healthcare,SMB,2025-06-16
+484,Parker-Bean,Fintech,Mid-Market,2024-01-15
+485,Lee-Cooke,Healthcare,SMB,2024-09-22
+486,Phillips Inc,E-commerce,SMB,2024-04-30
+487,"Conley, Stephenson and Johnson",Fintech,SMB,2025-01-29
+488,"Anderson, Bennett and Martin",Healthcare,SMB,2024-09-18
+489,"Wise, Lamb and Martin",Fintech,SMB,2025-10-07
+490,Jenkins Ltd,Fintech,Mid-Market,2024-12-05
+491,Montes PLC,Cybersecurity,SMB,2025-07-12
+492,"Bowers, Young and Allen",Edtech,Mid-Market,2024-08-09
+493,Mckee-Lee,E-commerce,SMB,2025-09-20
+494,"Joyce, Murray and Campbell",Edtech,SMB,2025-06-10
+495,"Rose, Burch and Montoya",Healthcare,Mid-Market,2024-10-23
+496,"Taylor, Wright and Davidson",Logistics,SMB,2025-09-14
+497,Spencer-Garcia,Logistics,SMB,2025-11-09
+498,"Rosales, Mitchell and Hines",Healthcare,SMB,2025-10-19
+499,Whitehead-Hernandez,Logistics,Enterprise,2024-07-30
+500,Potts and Sons,E-commerce,Mid-Market,2024-12-05
+501,Wilkerson-Arias,Fintech,Mid-Market,2025-09-26
+502,Sanders LLC,Cybersecurity,SMB,2024-11-18
+503,Vang-Brooks,Edtech,Mid-Market,2024-07-02
+504,Galvan-Combs,E-commerce,Mid-Market,2024-01-22
+505,Moody-Taylor,Edtech,SMB,2025-05-19
+506,Horton-Taylor,Logistics,SMB,2024-08-10
+507,West-Smith,Fintech,SMB,2025-07-02
+508,Scott and Sons,Cybersecurity,Mid-Market,2024-03-02
+509,"Lynch, Henderson and Parsons",E-commerce,SMB,2025-03-02
+510,Martinez-Allen,E-commerce,Mid-Market,2024-07-03
+511,"Bryant, Rodriguez and Stein",Cybersecurity,Mid-Market,2025-05-11
+512,"Smith, Robertson and Allen",Fintech,Mid-Market,2025-04-08
+513,Patterson-Mendez,E-commerce,Mid-Market,2024-04-21
+514,"Butler, Beck and Miller",Cybersecurity,Mid-Market,2024-07-05
+515,Ashley PLC,Edtech,SMB,2024-10-07
+516,"Spencer, Myers and Harrison",Logistics,SMB,2025-01-29
+517,Zavala-King,Edtech,Enterprise,2025-05-08
+518,Kramer-Cooper,Edtech,SMB,2024-01-13
+519,"Fuller, Ingram and Moss",Edtech,Mid-Market,2025-07-23
+520,Williams PLC,Logistics,Mid-Market,2024-09-15
+521,"Thompson, Maxwell and Marshall",Logistics,Enterprise,2024-09-19
+522,Welch-Cain,Healthcare,SMB,2025-06-24
+523,"Parsons, Ellis and Carter",Cybersecurity,SMB,2024-02-19
+524,Blackwell LLC,Healthcare,Enterprise,2024-02-04
+525,Robertson-Hays,Logistics,SMB,2025-12-25
+526,King-Mullins,Healthcare,SMB,2025-02-25
+527,Kelly-Norman,Fintech,Mid-Market,2024-05-28
+528,"Rivera, Martinez and Richardson",Cybersecurity,SMB,2025-11-03
+529,Paul-Kline,E-commerce,SMB,2025-11-21
+530,Beltran-Crawford,Edtech,Enterprise,2024-10-27
+531,Glass-Stone,Logistics,Mid-Market,2025-01-21
+532,Acosta Inc,Fintech,Enterprise,2025-09-14
+533,"Carney, White and Carter",Cybersecurity,Mid-Market,2024-11-30
+534,Murphy LLC,Logistics,SMB,2024-03-20
+535,Morrison-Simmons,Edtech,SMB,2024-08-26
+536,Bell-Williams,Cybersecurity,SMB,2025-06-19
+537,Mendez-Graham,E-commerce,SMB,2025-11-06
+538,Jones Ltd,Logistics,SMB,2025-05-11
+539,Palmer-Brady,Healthcare,Enterprise,2024-11-11
+540,Thomas PLC,Healthcare,SMB,2024-05-04
+541,Johnson-Jones,E-commerce,SMB,2025-06-10
+542,"Diaz, Reyes and Bradley",Fintech,Mid-Market,2025-08-27
+543,Shelton LLC,E-commerce,SMB,2025-04-14
+544,Hines-Berry,Healthcare,SMB,2024-10-15
+545,Sanders-Banks,Healthcare,Mid-Market,2025-02-15
+546,Johnson and Sons,Logistics,SMB,2024-07-12
+547,"Hughes, Hoffman and Green",Fintech,SMB,2025-01-22
+548,"Griffin, Davies and Mitchell",E-commerce,SMB,2024-07-21
+549,Gonzalez-Taylor,Healthcare,Mid-Market,2025-12-12
+550,Thompson-Reeves,Fintech,Mid-Market,2024-02-27
+551,"Ponce, Downs and Contreras",Logistics,SMB,2024-03-09
+552,Pierce LLC,Fintech,SMB,2025-07-05
+553,York-Joseph,E-commerce,Mid-Market,2025-11-23
+554,"Little, Leon and Hicks",Healthcare,Mid-Market,2025-12-21
+555,Conner and Sons,Fintech,SMB,2024-04-04
+556,Johnson-Spencer,Logistics,SMB,2025-09-05
+557,Lara-Arnold,E-commerce,SMB,2024-10-13
+558,Jones Group,Cybersecurity,SMB,2025-04-20
+559,"Mendoza, Jenkins and Ortiz",Fintech,Enterprise,2025-07-10
+560,Martinez LLC,Logistics,Mid-Market,2025-03-22
+561,Cole Ltd,Cybersecurity,SMB,2025-05-13
+562,Anderson-Calderon,Logistics,SMB,2025-02-05
+563,"Matthews, Saunders and Anderson",Healthcare,SMB,2025-03-04
+564,Guerra PLC,Fintech,SMB,2025-01-25
+565,Martin-Morris,Fintech,Mid-Market,2024-04-28
+566,Reed PLC,Edtech,SMB,2025-07-04
+567,Singleton-King,Cybersecurity,SMB,2025-11-26
+568,"Hill, Weber and Mendez",Cybersecurity,SMB,2025-05-08
+569,"Davidson, Vargas and Carpenter",Healthcare,Enterprise,2024-03-13
+570,"Weber, Winters and Morgan",Edtech,SMB,2024-05-12
+571,"Williams, Shields and Miller",Edtech,SMB,2025-12-18
+572,"Baker, Clark and Armstrong",Logistics,SMB,2025-05-13
+573,"Johnson, Small and Gardner",Edtech,Mid-Market,2025-04-25
+574,Webb-Ballard,E-commerce,Mid-Market,2025-05-13
+575,Evans-Jones,Healthcare,SMB,2025-06-16
+576,Gonzales Group,Logistics,SMB,2024-02-16
+577,Peterson and Sons,Fintech,SMB,2024-12-26
+578,"Flores, Travis and Reed",E-commerce,Mid-Market,2024-08-30
+579,Hodges PLC,Logistics,Enterprise,2024-11-05
+580,Flores Group,Healthcare,Mid-Market,2025-03-12
+581,Cole-Thomas,Healthcare,SMB,2024-04-05
+582,Dougherty-Lin,E-commerce,SMB,2024-02-09
+583,Estes and Sons,Logistics,SMB,2024-11-20
+584,Peck-Griffith,E-commerce,Mid-Market,2025-09-23
+585,Jimenez PLC,Cybersecurity,SMB,2024-05-27
+586,Koch-Jimenez,Healthcare,SMB,2024-12-28
+587,Wagner-Levy,Healthcare,SMB,2024-03-10
+588,"Gomez, Williams and Simpson",Cybersecurity,SMB,2024-06-16
+589,"Chambers, Mitchell and Smith",Healthcare,SMB,2025-11-16
+590,Anderson-Baker,Cybersecurity,Mid-Market,2024-03-24
+591,Diaz-Morales,Cybersecurity,Enterprise,2024-10-11
+592,"Lee, Tran and Jones",Healthcare,Enterprise,2025-03-18
+593,Duran-Ramirez,Edtech,SMB,2025-01-26
+594,"Carr, Anderson and Davis",Logistics,SMB,2025-04-29
+595,Grant-Diaz,Fintech,Mid-Market,2024-10-16
+596,Morrison Group,Healthcare,SMB,2024-04-22
+597,Williams and Sons,Healthcare,SMB,2025-01-23
+598,Brock-Stone,Edtech,SMB,2025-07-08
+599,"Barry, Taylor and Velazquez",Cybersecurity,Enterprise,2024-04-25
+600,Long PLC,Fintech,SMB,2024-09-04
+601,Wheeler-Romero,E-commerce,SMB,2025-07-28
+602,"Burns, Hart and Wells",Cybersecurity,SMB,2025-01-30
+603,Rivera-Rodriguez,Fintech,Mid-Market,2024-01-13
+604,"Parker, Roach and Wiggins",Cybersecurity,Mid-Market,2024-11-19
+605,Carlson LLC,Healthcare,Enterprise,2025-05-03
+606,"Lane, Griffith and Silva",Cybersecurity,Mid-Market,2025-05-24
+607,"Fuller, Harvey and Randall",Healthcare,Mid-Market,2024-05-12
+608,"Allen, Armstrong and Graves",Fintech,Mid-Market,2024-04-24
+609,Alexander Group,Edtech,Mid-Market,2024-05-28
+610,Vaughn-Jenkins,E-commerce,Enterprise,2024-04-27
+611,"Knapp, Salas and Fitzgerald",Cybersecurity,SMB,2025-08-24
+612,"Taylor, Clark and Nguyen",Fintech,Mid-Market,2024-02-18
+613,Fox-Edwards,Cybersecurity,Mid-Market,2025-05-29
+614,Barr-Peterson,Healthcare,SMB,2024-05-14
+615,"Ingram, Le and Schneider",E-commerce,Enterprise,2024-10-02
+616,Bishop-Lee,Fintech,SMB,2025-06-22
+617,Grant-Walker,Fintech,SMB,2024-07-10
+618,Bush-Vaughn,E-commerce,SMB,2024-08-19
+619,Castillo-Castro,Edtech,SMB,2025-01-14
+620,"Hill, Martinez and Rhodes",Logistics,Mid-Market,2025-12-26
+621,Cardenas-Blevins,Edtech,SMB,2024-10-21
+622,Roberts LLC,Fintech,Mid-Market,2025-09-16
+623,Reed Group,Healthcare,Mid-Market,2025-07-08
+624,Burgess-Lewis,Edtech,SMB,2025-05-24
+625,"Nelson, Hoffman and Nelson",Logistics,SMB,2025-10-05
+626,"Yang, Allen and Williams",Healthcare,Mid-Market,2024-03-25
+627,"Perez, Hall and Garcia",Healthcare,SMB,2025-12-04
+628,"Kennedy, Maldonado and Taylor",Fintech,Mid-Market,2024-09-13
+629,Russell Group,Healthcare,Enterprise,2025-03-03
+630,"Gonzalez, Maynard and Morris",Cybersecurity,SMB,2025-01-05
+631,Velez Inc,Fintech,SMB,2025-05-16
+632,"Hall, Rodgers and Jefferson",E-commerce,Enterprise,2025-05-21
+633,Butler and Sons,E-commerce,Mid-Market,2024-01-29
+634,Osborn Group,Healthcare,Mid-Market,2025-12-26
+635,Lopez-Curry,Healthcare,Mid-Market,2025-09-04
+636,Mcdowell-Smith,Edtech,Enterprise,2025-11-08
+637,"Rodriguez, Bird and Mitchell",Healthcare,SMB,2025-03-17
+638,"Warren, Small and Anderson",Healthcare,Mid-Market,2025-05-13
+639,Nelson-Lamb,Logistics,SMB,2025-01-26
+640,Simon Ltd,Cybersecurity,SMB,2024-09-13
+641,"Lopez, Doyle and Gibbs",Cybersecurity,SMB,2024-07-18
+642,"Todd, Thompson and Chase",Fintech,Mid-Market,2025-03-17
+643,Wilcox-Robertson,Cybersecurity,Mid-Market,2025-11-27
+644,Caldwell-Lopez,Fintech,Enterprise,2024-03-08
+645,Morris-Wright,Cybersecurity,SMB,2024-04-19
+646,Young-Molina,E-commerce,Mid-Market,2024-07-21
+647,Aguilar-Berry,Edtech,Mid-Market,2024-09-13
+648,"Ward, Young and Contreras",E-commerce,SMB,2024-07-22
+649,Moore-Parks,Edtech,Mid-Market,2024-12-27
+650,"Carrillo, Vaughn and Fowler",Cybersecurity,Mid-Market,2025-12-17
+651,Mendez-Robinson,Cybersecurity,Mid-Market,2024-08-17
+652,Hernandez-Adkins,Edtech,Mid-Market,2024-04-13
+653,Perry-Dunn,Cybersecurity,Mid-Market,2025-04-15
+654,"Pham, Petersen and Gill",E-commerce,Mid-Market,2024-12-31
+655,"Marks, Miller and Griffin",Fintech,Mid-Market,2025-06-12
+656,Miller-Elliott,Cybersecurity,SMB,2025-06-30
+657,"Leach, Harris and Herrera",E-commerce,SMB,2024-02-17
+658,Bond-Ramos,Healthcare,SMB,2024-05-07
+659,Love Group,Edtech,Mid-Market,2025-06-12
+660,"Griffin, Brown and Anderson",E-commerce,SMB,2024-03-11
+661,Elliott-Hansen,E-commerce,Mid-Market,2024-11-18
+662,Cummings-Foster,E-commerce,Enterprise,2025-06-06
+663,Reese PLC,Healthcare,Enterprise,2025-09-26
+664,Henderson Ltd,E-commerce,Mid-Market,2024-02-26
+665,"Mcknight, Michael and Jones",E-commerce,Mid-Market,2024-02-19
+666,Johnson-Ortiz,Healthcare,Enterprise,2025-12-26
+667,Cannon Ltd,Edtech,Mid-Market,2025-08-20
+668,Brooks-Vance,Edtech,Mid-Market,2025-05-16
+669,Bennett-Vega,Cybersecurity,Mid-Market,2024-12-14
+670,"Anderson, Dalton and Wilson",Healthcare,Enterprise,2025-05-29
+671,Rice-Luna,Logistics,SMB,2025-02-21
+672,Avila LLC,Healthcare,SMB,2024-06-21
+673,"Ball, Coleman and Gray",Logistics,SMB,2024-12-25
+674,Murray and Sons,E-commerce,Mid-Market,2024-06-27
+675,Pineda Ltd,Cybersecurity,SMB,2024-08-02
+676,Johnson Ltd,Healthcare,Mid-Market,2025-08-17
+677,"Miranda, Stephenson and Smith",E-commerce,SMB,2024-11-21
+678,Garcia Inc,Edtech,SMB,2024-06-09
+679,"Powers, Brennan and Sanchez",Logistics,Mid-Market,2024-12-12
+680,Gonzales-Fernandez,Logistics,SMB,2024-02-04
+681,Taylor LLC,Logistics,SMB,2025-08-08
+682,"Johnston, Ray and Barton",Fintech,Mid-Market,2024-06-30
+683,Young-Walter,Healthcare,Enterprise,2025-09-27
+684,"Walker, Turner and Brown",E-commerce,Mid-Market,2025-05-27
+685,"Buck, Garrett and Simmons",Fintech,SMB,2025-04-04
+686,Compton Ltd,Fintech,SMB,2025-01-19
+687,Floyd-Flores,Healthcare,SMB,2025-06-05
+688,Hernandez-Bennett,Edtech,Mid-Market,2024-11-19
+689,"Wells, Atkinson and Turner",Edtech,SMB,2025-08-08
+690,Shaffer Inc,E-commerce,Mid-Market,2025-07-03
+691,Faulkner-Grant,Cybersecurity,Mid-Market,2025-03-12
+692,Sanchez-Harris,Logistics,SMB,2024-04-14
+693,Nielsen LLC,Cybersecurity,Mid-Market,2025-05-17
+694,"Hardy, Lee and Adams",Healthcare,Mid-Market,2024-03-12
+695,"Morrison, Russo and Lopez",Healthcare,Mid-Market,2025-06-07
+696,"Ramsey, Hansen and Mendoza",E-commerce,SMB,2025-08-14
+697,Turner-Stout,E-commerce,SMB,2025-11-06
+698,Hayden Inc,Healthcare,Enterprise,2024-06-13
+699,Rocha-Dominguez,E-commerce,SMB,2025-08-03
+700,Sanders and Sons,Cybersecurity,SMB,2025-06-30
+701,Rowe-James,Cybersecurity,SMB,2025-03-04
+702,"Howard, Green and Hunt",Healthcare,SMB,2025-02-18
+703,Garcia-Zavala,Fintech,Enterprise,2025-01-21
+704,Rocha-Wood,Healthcare,SMB,2024-12-30
+705,Hart and Sons,Edtech,Mid-Market,2024-11-17
+706,Smith PLC,Logistics,Enterprise,2025-07-29
+707,"Riley, Butler and Hernandez",Fintech,Mid-Market,2025-12-27
+708,James and Sons,Edtech,Enterprise,2024-09-13
+709,"Pena, Cohen and Scott",Logistics,SMB,2025-01-22
+710,Levy-May,Logistics,SMB,2025-09-30
+711,Jackson-Norton,Edtech,Mid-Market,2025-01-16
+712,Cortez Group,Edtech,SMB,2024-05-11
+713,"Mooney, Bernard and Warren",Edtech,Mid-Market,2024-05-22
+714,Landry Ltd,Logistics,SMB,2025-10-13
+715,Gutierrez Ltd,Edtech,Enterprise,2024-02-07
+716,Mann Inc,Logistics,SMB,2024-06-28
+717,"Bryant, Brown and Little",Edtech,SMB,2024-06-18
+718,"Durham, Hopkins and Smith",Fintech,SMB,2025-12-26
+719,"Jenkins, Smith and Bowen",E-commerce,Mid-Market,2025-02-17
+720,Smith-Li,Edtech,Mid-Market,2025-02-20
+721,Drake-Browning,Fintech,SMB,2025-06-07
+722,Warren and Sons,Fintech,SMB,2024-03-24
+723,"Fox, Ochoa and Adams",Healthcare,SMB,2024-05-29
+724,Watson Group,Cybersecurity,SMB,2024-11-04
+725,"Sanchez, Terry and Evans",Healthcare,Mid-Market,2024-12-22
+726,Valdez Ltd,Logistics,Mid-Market,2025-10-05
+727,Davis Group,Healthcare,SMB,2025-08-12
+728,"Alvarez, Walsh and Warner",Logistics,SMB,2024-10-19
+729,Bruce-Newman,Cybersecurity,SMB,2024-03-05
+730,"Madden, Dickson and Jacobson",Healthcare,Mid-Market,2024-09-14
+731,Hall Ltd,Fintech,SMB,2025-12-14
+732,"Alvarez, Williams and Jones",Healthcare,Mid-Market,2025-11-20
+733,Lam-Elliott,Healthcare,Mid-Market,2025-12-19
+734,Mcfarland LLC,Healthcare,Mid-Market,2024-01-26
+735,Matthews Ltd,Healthcare,SMB,2024-01-13
+736,Hickman-Evans,Fintech,SMB,2025-09-29
+737,Knight Group,Edtech,SMB,2025-03-14
+738,"Rivera, Campos and Taylor",E-commerce,Mid-Market,2025-06-09
+739,"Miller, Mcgee and Reed",Logistics,SMB,2025-06-19
+740,Hall-Jones,E-commerce,SMB,2024-03-16
+741,"Friedman, Sanders and Ayala",Logistics,SMB,2025-04-15
+742,"Nelson, Riddle and Henry",Healthcare,SMB,2024-01-24
+743,"Pugh, Reynolds and Frazier",Healthcare,SMB,2024-10-03
+744,Miller-Montgomery,Cybersecurity,SMB,2025-05-28
+745,Marquez Inc,Cybersecurity,Mid-Market,2025-09-11
+746,James Ltd,Logistics,Mid-Market,2024-07-27
+747,"Price, Ward and Davis",Edtech,SMB,2024-04-29
+748,Ward-Nelson,Edtech,SMB,2024-08-27
+749,Lopez Group,Healthcare,SMB,2024-04-12
+750,"Hunt, Garcia and Davis",Cybersecurity,SMB,2025-03-08
+751,Carlson LLC,Healthcare,SMB,2025-03-06
+752,Smith-Gutierrez,E-commerce,SMB,2025-11-01
+753,Hardy PLC,Edtech,Mid-Market,2025-08-28
+754,Armstrong and Sons,Healthcare,SMB,2025-12-04
+755,Jackson-Adams,Fintech,SMB,2025-06-16
+756,Thomas-Jackson,Fintech,Mid-Market,2024-07-27
+757,Evans-Patton,E-commerce,Mid-Market,2024-08-02
+758,Raymond-Le,Logistics,SMB,2024-10-07
+759,"Jensen, Ellis and Taylor",Logistics,Mid-Market,2025-01-20
+760,Cook-Oliver,Cybersecurity,SMB,2024-01-06
+761,Alexander-Jordan,E-commerce,Mid-Market,2025-09-16
+762,"Mccann, Taylor and Flores",Healthcare,Mid-Market,2025-10-01
+763,Mendoza and Sons,Cybersecurity,SMB,2025-06-24
+764,Carter-Neal,E-commerce,Mid-Market,2024-11-05
+765,"Casey, Nguyen and Ramirez",E-commerce,SMB,2025-01-16
+766,Diaz-Frederick,Logistics,SMB,2025-09-02
+767,"Osborn, White and Saunders",Cybersecurity,SMB,2024-06-04
+768,"Murray, Erickson and Gonzales",Fintech,SMB,2024-01-21
+769,"Jones, Abbott and Pope",Logistics,SMB,2024-08-14
+770,Taylor-Turner,E-commerce,Mid-Market,2025-06-06
+771,"Moore, Henderson and Bennett",Healthcare,Mid-Market,2024-07-15
+772,"Mendoza, Morales and Hunter",Logistics,Mid-Market,2024-12-14
+773,"Barnes, Johnson and Schmitt",Cybersecurity,Mid-Market,2025-12-15
+774,"Wheeler, Rocha and Rodriguez",Logistics,Enterprise,2025-06-28
+775,"Ortega, Jackson and Salazar",Cybersecurity,SMB,2024-07-11
+776,"Byrd, Ross and Goodwin",Edtech,SMB,2025-03-13
+777,Rodriguez-Garcia,E-commerce,Enterprise,2025-09-10
+778,"Burgess, Grant and Watts",E-commerce,SMB,2024-06-21
+779,Brooks-Ford,Edtech,Mid-Market,2024-06-20
+780,"Vaughn, Hernandez and Cuevas",Healthcare,SMB,2025-06-11
+781,Phillips Inc,Cybersecurity,Mid-Market,2025-01-09
+782,"Thomas, Collins and Gibson",Fintech,SMB,2024-03-31
+783,"Webb, Alvarez and Kim",Logistics,SMB,2024-06-09
+784,Flores-Evans,Healthcare,SMB,2025-06-25
+785,"Wilson, Sweeney and Wong",Edtech,SMB,2025-09-21
+786,Spears Ltd,Cybersecurity,SMB,2025-06-09
+787,"Thompson, Moore and Castro",Logistics,Mid-Market,2024-07-08
+788,Salinas Ltd,Fintech,SMB,2024-12-24
+789,Davidson Group,Logistics,SMB,2024-05-23
+790,Mclaughlin and Sons,Fintech,SMB,2024-11-03
+791,"Jordan, Smith and Lewis",Cybersecurity,SMB,2024-12-15
+792,"Stokes, Brown and Garcia",Logistics,SMB,2024-08-04
+793,"Lopez, Nguyen and Ellis",E-commerce,SMB,2025-11-08
+794,"Huffman, Rose and Fowler",Logistics,SMB,2024-07-22
+795,Carr-Matthews,Healthcare,SMB,2025-04-08
+796,Bruce-Williamson,Cybersecurity,Mid-Market,2024-09-27
+797,"Mccarthy, Evans and Mendez",Healthcare,SMB,2025-09-24
+798,"Anderson, Wilson and Torres",E-commerce,SMB,2024-03-06
+799,Steele-Dixon,Healthcare,Enterprise,2024-05-22
+800,"Taylor, Reyes and Lopez",Fintech,SMB,2024-11-20
+801,"Steele, Brewer and Cooke",E-commerce,Enterprise,2025-05-08
+802,Burns and Sons,Edtech,Mid-Market,2025-03-07
+803,Wilkinson-Harvey,E-commerce,SMB,2024-05-25
+804,Crane-Washington,Fintech,SMB,2025-11-03
+805,Maynard-Wagner,Healthcare,SMB,2024-05-31
+806,Cohen-Perry,Healthcare,SMB,2025-01-19
+807,Burns-Miller,Edtech,SMB,2025-10-14
+808,Carter LLC,Cybersecurity,Mid-Market,2024-01-24
+809,"Roberts, Norman and Cunningham",Fintech,SMB,2024-06-23
+810,Dunn-Wilson,Cybersecurity,SMB,2025-08-23
+811,Hampton-Morrow,Fintech,SMB,2024-03-29
+812,"Carson, Williams and Ball",Fintech,Mid-Market,2024-10-11
+813,Fritz Inc,Logistics,SMB,2025-02-28
+814,"Potter, Evans and Kidd",Healthcare,Mid-Market,2025-07-25
+815,Bailey-Montoya,Healthcare,SMB,2024-12-15
+816,Rowe and Sons,Healthcare,SMB,2024-12-07
+817,"Matthews, Bell and Page",E-commerce,SMB,2024-06-12
+818,Martin-Taylor,Logistics,SMB,2025-05-06
+819,Trujillo PLC,Cybersecurity,Enterprise,2024-06-09
+820,"Campbell, Ryan and Morris",Fintech,SMB,2024-09-29
+821,Roberts-Adams,Fintech,SMB,2025-06-30
+822,"Duke, Shelton and Davis",Logistics,SMB,2025-10-28
+823,Sellers-Riddle,Fintech,SMB,2025-08-05
+824,"Martinez, Cline and Wright",E-commerce,Mid-Market,2025-11-04
+825,Poole-Juarez,Edtech,SMB,2025-07-06
+826,Burns-Ray,Edtech,SMB,2025-06-09
+827,"Perry, Hayes and Schultz",Cybersecurity,SMB,2024-07-27
+828,Powell Ltd,Logistics,SMB,2025-11-14
+829,"Mayer, Wood and Clements",E-commerce,SMB,2024-08-04
+830,"Smith, Schroeder and Oconnor",Cybersecurity,Mid-Market,2024-09-11
+831,Reid-Terry,Edtech,SMB,2025-07-21
+832,Flynn Group,E-commerce,SMB,2025-10-22
+833,Summers-Simpson,Logistics,SMB,2024-06-18
+834,Morgan-Lane,Cybersecurity,SMB,2024-09-07
+835,Kramer-Shannon,Cybersecurity,SMB,2025-03-15
+836,Williams Ltd,Logistics,Mid-Market,2025-08-15
+837,Smith-Noble,Healthcare,Mid-Market,2025-08-31
+838,Bryant-Braun,Logistics,Mid-Market,2024-05-02
+839,Forbes and Sons,Logistics,SMB,2024-11-28
+840,"Turner, Baxter and Mcdowell",Cybersecurity,SMB,2025-11-16
+841,"Ward, Miller and Beck",Healthcare,SMB,2024-03-13
+842,Williams Ltd,Healthcare,Mid-Market,2025-05-19
+843,"Lyons, Young and Rios",E-commerce,Mid-Market,2024-08-25
+844,Smith Group,E-commerce,SMB,2025-06-30
+845,Wheeler PLC,E-commerce,SMB,2024-03-01
+846,Smith-Dominguez,Fintech,SMB,2025-06-12
+847,Mcneil Group,E-commerce,SMB,2025-09-26
+848,Woods and Sons,Fintech,Mid-Market,2025-06-23
+849,Cross Inc,Logistics,SMB,2024-10-24
+850,Richardson-Evans,Logistics,Mid-Market,2024-03-21
+851,May Ltd,Cybersecurity,Mid-Market,2024-10-24
+852,Moreno Inc,Healthcare,Enterprise,2024-04-20
+853,"Martin, Bell and Lewis",Logistics,Mid-Market,2025-04-19
+854,Gillespie PLC,E-commerce,Mid-Market,2025-08-04
+855,Heath-Miller,Logistics,SMB,2025-06-17
+856,Goodwin PLC,Fintech,SMB,2024-03-19
+857,Bell-Jordan,E-commerce,Enterprise,2025-07-21
+858,Wright Ltd,Fintech,SMB,2025-09-06
+859,Tran PLC,Edtech,SMB,2024-03-06
+860,"Mitchell, Pugh and Johnson",Cybersecurity,SMB,2025-07-14
+861,"Liu, Harris and Lawson",Healthcare,SMB,2025-10-19
+862,"Myers, Lucas and Bowers",Logistics,SMB,2024-05-26
+863,Simpson Inc,E-commerce,Enterprise,2025-09-08
+864,Little-Jones,Healthcare,SMB,2024-07-06
+865,Hatfield LLC,E-commerce,Mid-Market,2025-11-21
+866,Valencia-Carroll,Fintech,Mid-Market,2024-04-12
+867,"Vega, Farmer and Best",Cybersecurity,SMB,2024-10-10
+868,Smith Inc,E-commerce,SMB,2025-08-21
+869,Lewis-Livingston,Cybersecurity,SMB,2024-01-11
+870,Hunter-Fuller,E-commerce,Mid-Market,2025-09-05
+871,Henderson-Morales,Cybersecurity,Enterprise,2025-01-24
+872,"Medina, Hernandez and Miller",Logistics,Mid-Market,2025-05-12
+873,"Mccall, Mccann and Moore",E-commerce,SMB,2024-03-02
+874,Willis-Hines,Cybersecurity,SMB,2024-09-10
+875,"Day, Collins and Kim",E-commerce,SMB,2025-05-19
+876,Brown Inc,Cybersecurity,Mid-Market,2025-10-19
+877,Wilson-Salazar,Healthcare,SMB,2025-12-19
+878,Wade-Barrett,Cybersecurity,Enterprise,2024-02-12
+879,Smith and Sons,E-commerce,Mid-Market,2024-05-16
+880,Martin LLC,Cybersecurity,Mid-Market,2025-06-28
+881,"Logan, Le and Jackson",Edtech,Mid-Market,2025-02-10
+882,"Norman, Adams and Tanner",Cybersecurity,Enterprise,2024-04-08
+883,Rogers Group,Logistics,SMB,2025-08-22
+884,"Brown, Joseph and Ray",Cybersecurity,SMB,2024-07-30
+885,Gibson-Ward,E-commerce,SMB,2024-02-29
+886,"Jackson, Moore and Ayala",E-commerce,SMB,2025-01-23
+887,"Craig, Wilson and Yang",Edtech,SMB,2025-11-25
+888,Trevino Inc,Healthcare,SMB,2024-01-02
+889,Ruiz Group,Edtech,SMB,2024-07-08
+890,White Inc,E-commerce,Mid-Market,2025-12-15
+891,"Yang, Barnes and Morris",Fintech,SMB,2025-03-05
+892,"Flores, Mckenzie and Duncan",Logistics,Mid-Market,2024-11-19
+893,"Nunez, Williams and Walker",Logistics,SMB,2024-04-02
+894,Finley Inc,E-commerce,Mid-Market,2025-02-04
+895,Cline-Ayala,Logistics,SMB,2025-11-12
+896,Miller-Bryant,Healthcare,SMB,2024-08-29
+897,Carter LLC,Edtech,Mid-Market,2024-10-13
+898,"Sanchez, Richardson and Bonilla",Logistics,Mid-Market,2025-07-28
+899,Oconnor PLC,Edtech,Mid-Market,2025-08-23
+900,Hernandez Group,Fintech,SMB,2025-08-13
+901,Weaver Ltd,Cybersecurity,Mid-Market,2024-01-19
+902,"Wiley, Tapia and Smith",Healthcare,Mid-Market,2025-10-14
+903,Sweeney-Acosta,Cybersecurity,Mid-Market,2025-05-25
+904,Moreno and Sons,Edtech,SMB,2024-03-21
+905,Woodward-Kaufman,E-commerce,Enterprise,2024-11-22
+906,"Ramirez, Williams and Hall",Healthcare,Enterprise,2024-04-20
+907,"Gutierrez, Huang and Ellis",Edtech,SMB,2025-10-18
+908,Carpenter PLC,Logistics,Enterprise,2025-08-03
+909,"Wilkins, Jones and Bradley",Healthcare,Mid-Market,2024-04-13
+910,"Brandt, Young and Green",Healthcare,SMB,2024-12-03
+911,Haynes-Moss,Healthcare,Enterprise,2024-09-01
+912,Nelson-Jones,Edtech,Mid-Market,2024-09-04
+913,Chan PLC,Edtech,Mid-Market,2024-06-06
+914,Garcia Group,Fintech,Mid-Market,2024-03-25
+915,Russell-Herrera,E-commerce,Mid-Market,2024-12-27
+916,Hayes Group,Fintech,Mid-Market,2025-08-21
+917,Davis Ltd,Logistics,Mid-Market,2024-07-24
+918,"Terry, Williams and Huff",E-commerce,SMB,2024-08-24
+919,Davis and Sons,Edtech,SMB,2024-09-11
+920,Palmer-Byrd,Logistics,SMB,2024-10-03
+921,Johnson Group,Healthcare,SMB,2024-07-21
+922,Hawkins-Pierce,Edtech,Mid-Market,2025-10-25
+923,Garcia-Leon,E-commerce,Enterprise,2024-03-14
+924,Brown and Sons,Healthcare,SMB,2024-04-04
+925,Colon LLC,Logistics,SMB,2024-04-11
+926,"Pace, Miller and Willis",Healthcare,Enterprise,2025-06-17
+927,Johnson Inc,E-commerce,SMB,2025-12-13
+928,"Ramos, Anderson and Stein",E-commerce,Enterprise,2024-06-02
+929,Martinez-Dunlap,Cybersecurity,Mid-Market,2025-10-06
+930,Glass Group,Edtech,SMB,2024-02-09
+931,"Foster, Johnson and Vega",E-commerce,Enterprise,2025-09-30
+932,Lewis-Lopez,Healthcare,Mid-Market,2024-05-14
+933,Stephenson-Johnson,Edtech,Mid-Market,2024-08-05
+934,"Sanchez, Phillips and Jenkins",Healthcare,SMB,2025-04-25
+935,Brown-Ramirez,Fintech,Enterprise,2025-03-03
+936,Gonzalez-Wilkerson,Fintech,SMB,2024-04-16
+937,Mccoy PLC,Edtech,SMB,2025-02-12
+938,Mayo Ltd,Cybersecurity,Mid-Market,2025-09-09
+939,Stephens-Washington,Healthcare,SMB,2024-10-05
+940,"Shaw, Price and White",E-commerce,SMB,2025-12-09
+941,"Robinson, Huang and Osborne",Fintech,SMB,2024-09-04
+942,Moreno-Wang,Healthcare,Mid-Market,2024-02-15
+943,Garcia Ltd,Logistics,SMB,2024-06-29
+944,Ferguson-Moody,Fintech,Mid-Market,2024-07-06
+945,Gallagher and Sons,Healthcare,Mid-Market,2025-07-26
+946,Kelly-Combs,Fintech,Mid-Market,2025-03-23
+947,Thompson PLC,Logistics,SMB,2025-10-18
+948,"Wolfe, Sloan and Johnson",Edtech,SMB,2024-09-04
+949,Meza-Elliott,Fintech,Mid-Market,2025-06-28
+950,Copeland Group,Edtech,Mid-Market,2025-03-13
+951,Thompson-Johnson,Edtech,Mid-Market,2025-02-25
+952,Guzman Inc,Fintech,SMB,2024-02-13
+953,Smith-Hardin,E-commerce,SMB,2025-02-12
+954,Peterson and Sons,Logistics,SMB,2024-06-05
+955,Brown-Hernandez,Logistics,Mid-Market,2025-12-14
+956,Schroeder PLC,Healthcare,Mid-Market,2025-07-01
+957,Yu-Brooks,Fintech,Mid-Market,2025-10-30
+958,Willis-Rogers,E-commerce,SMB,2025-05-29
+959,Daugherty Ltd,Fintech,SMB,2024-09-07
+960,"Yu, Banks and Thompson",Fintech,SMB,2024-12-05
+961,"Preston, Austin and Kelly",Cybersecurity,Mid-Market,2025-03-12
+962,"Olsen, Gray and Gross",Fintech,Mid-Market,2025-05-31
+963,Thompson Inc,Cybersecurity,Mid-Market,2024-08-16
+964,"Myers, Gamble and Sanford",Edtech,SMB,2025-06-29
+965,Guzman PLC,Logistics,SMB,2024-01-26
+966,"Cunningham, Zuniga and Taylor",Cybersecurity,SMB,2024-06-20
+967,Young LLC,Cybersecurity,SMB,2025-08-01
+968,"Mcclure, Davis and Fletcher",Cybersecurity,SMB,2024-05-10
+969,"Tanner, Griffin and Baker",Edtech,Mid-Market,2025-05-11
+970,"Jones, Scott and Rodriguez",Fintech,Mid-Market,2024-07-12
+971,Cruz Ltd,Healthcare,SMB,2024-01-01
+972,Wilkerson Group,Edtech,SMB,2024-11-21
+973,Bell-Bennett,Edtech,Mid-Market,2025-11-15
+974,Kramer-Lane,E-commerce,Enterprise,2025-10-05
+975,"Perez, Hayes and Lloyd",Logistics,SMB,2025-08-11
+976,Smith-Green,Logistics,SMB,2024-01-26
+977,Peterson Group,Fintech,Mid-Market,2024-03-22
+978,"Jones, Mcmahon and Spence",Edtech,SMB,2024-05-04
+979,"Galloway, Barry and Bush",Fintech,Mid-Market,2024-09-19
+980,"Martin, Preston and Moore",E-commerce,SMB,2024-12-01
+981,Harris-Lee,E-commerce,SMB,2024-03-19
+982,"Bowen, Blair and Baker",Healthcare,Mid-Market,2025-06-25
+983,Young-Williams,Healthcare,SMB,2024-08-06
+984,"Larsen, Hernandez and Ward",Edtech,SMB,2025-03-20
+985,Phillips Ltd,Healthcare,SMB,2024-11-28
+986,"Castillo, Davis and Clark",Logistics,SMB,2025-04-30
+987,Rowland-Wells,Fintech,Mid-Market,2025-05-10
+988,Glover-Ruiz,Fintech,SMB,2024-03-30
+989,"Baker, May and Hughes",Edtech,SMB,2025-11-26
+990,Wood-Griffin,E-commerce,SMB,2024-10-15
+991,Marshall-Perez,E-commerce,Mid-Market,2024-07-23
+992,"Brown, Goodwin and Contreras",E-commerce,SMB,2024-07-27
+993,"Cooper, Weaver and Arellano",Cybersecurity,SMB,2024-03-07
+994,Spencer Group,Cybersecurity,SMB,2025-04-03
+995,"Barnes, Nichols and Camacho",Healthcare,SMB,2025-09-27
+996,"Keith, Alvarez and Miller",E-commerce,Mid-Market,2025-01-03
+997,"Johnson, Duncan and Black",Healthcare,SMB,2025-12-02
+998,"Mcgrath, Hernandez and Avery",Fintech,SMB,2025-03-19
+999,Rush and Sons,Cybersecurity,SMB,2024-12-14
+1000,Martinez Group,Logistics,Mid-Market,2024-06-13
+1001,"Graham, Osborn and Burton",Cybersecurity,SMB,2024-03-01
+1002,"Scott, Bartlett and Sloan",Fintech,SMB,2025-10-09
+1003,Hughes Group,Logistics,Mid-Market,2024-02-22
+1004,Gates-Stone,Healthcare,SMB,2025-03-04
+1005,Buchanan PLC,Fintech,SMB,2025-12-13
+1006,"Harrington, Rodriguez and Hernandez",Cybersecurity,SMB,2025-04-01
+1007,"Aguilar, Hanna and Garcia",Healthcare,Enterprise,2025-03-16
+1008,"Chan, Floyd and Dillon",Fintech,Mid-Market,2024-03-23
+1009,Humphrey-Baker,Cybersecurity,SMB,2025-11-14
+1010,Armstrong-Kennedy,E-commerce,SMB,2025-05-23
+1011,Powell-Montgomery,Fintech,Mid-Market,2024-05-13
+1012,"Morales, Foster and Koch",Logistics,SMB,2025-06-12
+1013,Williams Group,E-commerce,Mid-Market,2025-06-20
+1014,Prince-Smith,Edtech,Enterprise,2025-12-16
+1015,Collins-Cameron,Fintech,Mid-Market,2025-09-26
+1016,"Cohen, Compton and Perez",Healthcare,SMB,2025-10-28
+1017,"Ramos, Petersen and Adams",Logistics,SMB,2024-08-21
+1018,"Brewer, Lopez and Lewis",E-commerce,Mid-Market,2024-11-19
+1019,Figueroa-Malone,Edtech,Enterprise,2025-10-01
+1020,Nicholson-Robertson,E-commerce,Mid-Market,2025-11-04
+1021,Collins PLC,Healthcare,SMB,2024-05-03
+1022,Deleon PLC,Edtech,Mid-Market,2024-11-09
+1023,"Johnson, Lee and Whitaker",Healthcare,SMB,2025-11-13
+1024,Wright Group,Cybersecurity,SMB,2025-10-12
+1025,Bush-Hill,Fintech,Mid-Market,2024-02-09
+1026,Wagner-Reid,E-commerce,Mid-Market,2025-10-01
+1027,"Johnson, Watson and Wheeler",Cybersecurity,SMB,2024-04-06
+1028,Matthews-Bailey,Logistics,SMB,2024-05-17
+1029,Curry-Barker,E-commerce,Mid-Market,2024-05-07
+1030,Hughes and Sons,Cybersecurity,Mid-Market,2024-08-09
+1031,"Chan, Lewis and Walker",Cybersecurity,Mid-Market,2025-10-25
+1032,"Clark, Pearson and Palmer",E-commerce,SMB,2024-06-23
+1033,"Smith, Buck and Holland",Fintech,Enterprise,2025-11-02
+1034,Walker PLC,Edtech,SMB,2025-04-11
+1035,Marquez-Fletcher,Healthcare,SMB,2025-09-17
+1036,Woodard-York,Logistics,Mid-Market,2024-08-01
+1037,Robinson-Turner,Healthcare,Mid-Market,2024-12-22
+1038,"Sanders, Garcia and Hunt",Logistics,SMB,2025-02-08
+1039,Hoffman-Wheeler,Fintech,SMB,2025-05-29
+1040,Cohen-Olson,Healthcare,Enterprise,2024-08-07
+1041,Davidson-Hensley,Cybersecurity,SMB,2024-09-18
+1042,"Dawson, Stafford and Evans",Healthcare,Mid-Market,2024-07-21
+1043,"Cannon, Yoder and Trujillo",Logistics,SMB,2024-04-26
+1044,"Powell, Flores and Taylor",E-commerce,Mid-Market,2025-09-15
+1045,"Jimenez, Phillips and Meadows",Healthcare,SMB,2024-01-20
+1046,Doyle-Aguilar,Logistics,SMB,2024-11-10
+1047,Cooper Ltd,Logistics,Mid-Market,2025-03-20
+1048,"Nichols, Glover and Knox",Edtech,Mid-Market,2024-06-21
+1049,Romero-Bruce,Edtech,SMB,2025-06-05
+1050,"Walter, White and Davis",Fintech,Mid-Market,2025-10-14
+1051,"Green, Stokes and Hines",Logistics,SMB,2024-04-09
+1052,"Lam, Pena and Walker",Edtech,SMB,2024-05-22
+1053,"Savage, Fisher and Eaton",Cybersecurity,SMB,2024-06-22
+1054,Richards-Ford,Logistics,Mid-Market,2024-10-15
+1055,Brown-Walters,Fintech,SMB,2024-04-01
+1056,"Jones, Preston and Mason",Cybersecurity,Enterprise,2025-03-26
+1057,"James, Evans and Brown",E-commerce,SMB,2025-11-04
+1058,Taylor and Sons,E-commerce,Mid-Market,2025-10-25
+1059,Benitez-Orozco,Fintech,SMB,2024-09-23
+1060,Stewart Ltd,Edtech,Mid-Market,2024-12-21
+1061,Freeman Ltd,Logistics,SMB,2024-05-20
+1062,Walters-Smith,Cybersecurity,Mid-Market,2024-05-17
+1063,Juarez and Sons,Logistics,SMB,2024-07-31
+1064,Burns Inc,Logistics,SMB,2025-03-23
+1065,"Hamilton, Jordan and Patterson",Fintech,SMB,2024-04-10
+1066,Smith-Ferguson,Cybersecurity,Mid-Market,2025-01-05
+1067,Dodson-Mcclain,E-commerce,Mid-Market,2025-07-21
+1068,"Lee, Rhodes and Sims",Logistics,SMB,2025-08-10
+1069,Steele LLC,Cybersecurity,SMB,2024-07-12
+1070,Garcia PLC,Cybersecurity,SMB,2024-08-30
+1071,Jackson-Colon,Cybersecurity,Enterprise,2025-04-02
+1072,Bryant-Meyer,Healthcare,SMB,2024-08-19
+1073,Hamilton-Mcdaniel,Cybersecurity,SMB,2025-02-11
+1074,Ferrell-Henry,Healthcare,SMB,2024-04-13
+1075,Martin Group,Fintech,SMB,2025-08-05
+1076,Walker and Sons,Healthcare,SMB,2024-01-15
+1077,"Johnson, Wagner and Martinez",Edtech,SMB,2024-06-13
+1078,"Conner, Brooks and Bowman",Edtech,SMB,2025-07-06
+1079,"Dean, Wheeler and Williams",Cybersecurity,SMB,2025-08-22
+1080,"Huff, Williams and Wilson",E-commerce,Enterprise,2024-03-24
+1081,Martinez-King,Edtech,Mid-Market,2024-12-11
+1082,Harris Ltd,Logistics,Mid-Market,2025-06-29
+1083,Turner Ltd,E-commerce,SMB,2025-05-04
+1084,"Meyer, Dean and Haynes",Fintech,SMB,2024-03-19
+1085,Hunt PLC,Edtech,SMB,2024-11-21
+1086,Wilson-Rodriguez,Fintech,SMB,2024-04-01
+1087,"Gonzalez, Baker and Mills",Healthcare,Mid-Market,2024-06-03
+1088,Warner-Phillips,Healthcare,SMB,2024-06-05
+1089,"Crawford, Clark and Fitzpatrick",Edtech,Mid-Market,2024-01-31
+1090,Smith Ltd,Logistics,Mid-Market,2024-09-13
+1091,Conley Ltd,Edtech,Mid-Market,2024-03-10
+1092,Herring PLC,Healthcare,Enterprise,2025-01-18
+1093,"Cummings, Conway and Newman",Healthcare,SMB,2024-02-28
+1094,Baker-Williams,E-commerce,SMB,2024-12-20
+1095,Sawyer LLC,Fintech,Enterprise,2025-09-23
+1096,"Edwards, Rodgers and Davis",Logistics,SMB,2024-10-06
+1097,Smith and Sons,Edtech,SMB,2025-08-11
+1098,"Jackson, Howard and Kim",E-commerce,SMB,2025-05-30
+1099,Johns-Davis,E-commerce,SMB,2025-04-27
+1100,White-Morales,Cybersecurity,Mid-Market,2025-09-25
