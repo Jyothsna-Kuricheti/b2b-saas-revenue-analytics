@@ -22,7 +22,7 @@ The project utilizes a 4-table Star Schema implemented in MySQL:
 ---
 
 ## Power BI Executive Dashboard
-![Executive Dashboard Preview](dashboard/dashboard_preview.png)
+![Executive Dashboard Preview](dashboard_preview.png)
 
 ### Key Features Built:
 - **Executive KPI Cards:** Real-time visibility into Total Customers, Active ARR, Active MRR, Churn Rate %, and Average CSAT.
